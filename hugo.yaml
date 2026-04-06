@@ -78,8 +78,8 @@ params:
     Title: "Niche App Lab"
     Content: |
       Products:
-        - [T-Code IME for Android](/posts/t-code-ime-for-android/)
-        - T-Code Engine
+        - [T-Code IME for Android]({{< relref "posts/t-code-ime-for-android/index.md" >}})
+        - [T-Code Engine](https://github.com/NicheAppLab/T-Code-Engine)
 
   socialIcons:
     - name: x
