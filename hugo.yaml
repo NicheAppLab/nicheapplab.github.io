@@ -16,6 +16,8 @@ caches:
   images:
     dir: :cacheDir/images
 
+googleAnalytics: 'G-BJ4CC13Q5X'
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
@@ -89,7 +91,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-BJ4CC13Q5X"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -101,7 +103,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/nicheapplab/nicheapplab.github.io/content"
+    URL: "https://github.com/nicheapplab/nicheapplab.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
