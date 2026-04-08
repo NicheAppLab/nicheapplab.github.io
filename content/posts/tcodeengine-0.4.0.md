@@ -93,20 +93,6 @@ val res0: String = "相次ぐ火事により"
 `InteractiveEngine.outputBuffer` , 未確定部分を `InteractiveEngine.buffer` に格
 納しています.
 
-## インストール情報
-
-sbt
-
-```
-libraryDependencies += "io.github.nicheapplab" %% "t-code-engine" % "0.4.0"
-```
-
-もしくは,
-
-```
-libraryDependencies += "io.github.nicheapplab" %% "t-code-engine" % "0.4.0-SNAPSHOT"
-```
-
 ## 開発情報
 
 - sbt
