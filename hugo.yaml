@@ -1,4 +1,4 @@
-baseURL: https://nicheapplab.github.io/
+baseURL: https://www.nicheapplab.com/
 locale: ja-JP
 title: Niche App Lab
 theme: ["PaperMod"]
@@ -126,7 +126,7 @@ menu:
       weight: 20
     - identifier: example
       name: Niche App Lab
-      url: https://nicheapplab.github.io
+      url: https://www.nicheapplab.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
