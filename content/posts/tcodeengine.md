@@ -1,7 +1,7 @@
 ---
 date: '2026-04-08T10:38:00-07:00'
 draft: false
-title: 'T-Code-Engine 0.4.0 リリース'
+title: 'T-Code-Engine'
 author: Kazuhiro F
 tags:
     - T-Code-Engine
@@ -58,7 +58,7 @@ scala> ie.commit()
 val res0: String = "記者"
 ```
 
-この例では, "fj"で交ぜ書き変換モードに入り, "記しゃ"を"記者"に変換しています. 
+この例では, "fj"で交ぜ書き変換モードに入り, "記しゃ"を"記者"に変換しています.
 
 - 例では短縮のために `foreach` を利用していますが, 実際に使用するときには各字を,
 `ie.put('f')` のように 1 字ずつ入力することが想定されています.
@@ -97,7 +97,8 @@ val res0: String = "相次ぐ火事により"
 
 - sbt
 ```
-libraryDependencies += "io.github.nicheapplab" %% "t-code-engine" % "0.4.0"
+libraryDependencies += "io.github.nicheapplab" %% "t-code-engine" % "0.4.3"
 ```
 - [GitHub](https://github.com/NicheAppLab/T-Code-Engine)
-- [Scaladoc](/tcodeengine-0.4.0-api/index.html)
+- [API/0.4.3](/tcodeengine-0.4.3-api/index.html)
+- [API/0.4.0](/tcodeengine-0.4.0-api/index.html)
