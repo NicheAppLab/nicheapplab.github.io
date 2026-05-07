@@ -4,7 +4,7 @@ draft: false
 title: 'T-Code IME for Android'
 tags:
     - T-Code
-    - T-Code for Android
+    - T-Code IME for Android
 ---
 
 Niche App Lab がリリースしている, T-Code IME for Android の製品情報です.

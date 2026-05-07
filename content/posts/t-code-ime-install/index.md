@@ -3,7 +3,7 @@ date: '2026-04-05T18:00:49-07:00'
 draft: false
 title: 'T-Code IME for Android のインストール'
 tags:
-    - T-Code for Android
+    - T-Code IME for Android
 ---
 ## インストール
 
