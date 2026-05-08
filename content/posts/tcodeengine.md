@@ -1,12 +1,14 @@
 ---
 date: '2026-04-08T10:38:00-07:00'
 draft: false
-title: 'T-Code-Engine'
+title: 'T-Code-Engine [obsolete]'
 author: Kazuhiro F
 tags:
     - T-Code-Engine
 weight: 2
 ---
+この記事は古いバージョン(0.4.x)に基づいて記述されています.
+最新版は [T-Code-Engine タグ]({{< ref "tags/t-code-engine" >}})にてご確認ください.
 
 ## 主な機能
 
@@ -50,7 +52,7 @@ val res1: String = "劇"
 
 ```scala
 scala> import io.github.nicheapplab.tcodeengine._
-scala> val engine = new InteractiveEngine with QwertyLayout
+scala> val ie = new InteractiveEngine with QwertyLayout
 scala> "fjyijstt".foreach(ie.put(_))
 scala> ie.inflexRight()
 scala> ie.convert()
@@ -74,18 +76,19 @@ val res0: String = "記者"
 きます.
 
 ```scala
-scala> val ie = new InteractiveEngine with QwertyLayout
-scala> "fjjfpw.v.ddt".foreach(ie.put(_))
+scala> "fjjfpw.v".foreach(ie.put(_))
+scala> ie.convert()
+scala> ".ddt".foreach(ie.put(_))
 scala> ie.inflexLeft()
 scala> ie.convert()
-scala> ie.selectCandidates(0)
+scala> ie.selectCandidate(0)
 scala> "fjjeux".foreach(ie.put(_))
 scala> ie.inflexRight()
 scala> ie.convert()
 scala> ie.selectCandidate(3)
 scala> "kgjwjc".foreach(ie.put(_))
-scala> ie.commit()
-val res0: String = "相次ぐ火事により"
+scala> val res = ie.commit()
+val res: String = "相次ぐ火事により"
 ```
 
 同様に, 交ぜ書きモードの中で部首合成を実行することができます. また, IME では変換
