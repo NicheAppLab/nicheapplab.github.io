@@ -6,8 +6,23 @@ tags:
     - T-Code
     - T-Code IME for Android
 weight: 1
+schema:
+      "@context": "https://schema.org"
+      "@type": "SoftwareApplication"
+      "name": "T-Code IME"
+      "operatingSystem": "ANDROID"
+      "applicationCategory": "UtilitiesApplication"
+      "downloadUrl": "https://play.google.com/store/apps/details?id=com.nicheapplab.t_codeime"
+      "availableLanguage":
+          - "@type": "Language"
+            "name": "Japanese"
+          - "@type": "Language"
+            "name": "English"
+      "offers":
+          "@type": "Offer"
+          "price": "0"
+          "priceCurrency": "JPY"
 ---
-
 Niche App Lab がリリースしている, T-Code IME for Android の製品情報です.
 以下, T-Code IME for Android の特徴です.
 
