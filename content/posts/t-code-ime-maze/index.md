@@ -2,6 +2,12 @@
 date: '2026-04-05T18:00:49-07:00'
 draft: false
 title: 'T-Code IME for Android の交ぜ書き変換'
+url: "/posts/t-code-ime-maze/"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code"
+    - title: "T-Code IME for Android"
+      url: "/posts/t-code-ime-for-android/"
 tags:
     - T-Code IME for Android
 ---

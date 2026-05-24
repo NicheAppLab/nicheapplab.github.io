@@ -1,8 +1,14 @@
 ---
 date: '2026-04-08T10:38:00-07:00'
 draft: false
-title: 'T-Code-Engine [obsolete]'
+title: 'T-Code-Engine 0.4.x [obsolete]'
 author: Kazuhiro F
+url: "/posts/tcodeengine"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code"
+    - titile: "T-Code Engine"
+      url: "/posts/tcodeengine"
 tags:
     - T-Code-Engine
 weight: 2

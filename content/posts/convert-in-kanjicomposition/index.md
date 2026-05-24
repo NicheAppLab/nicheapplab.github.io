@@ -1,6 +1,10 @@
 ---
 date: '2026-05-07T12:42:29-07:00'
 title: '部首合成機能の終端指定'
+url: "/posts/convert-in-kanjicomposition/"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code/"
 tags:
     - T-Code-Engine
     - T-Code IME for Android

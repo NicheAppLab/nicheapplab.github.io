@@ -1,6 +1,12 @@
 ---
 date: '2026-05-08T10:49:32-07:00'
 title: 'T-Code-Engine 0.7.2'
+url: "/posts/tcodeengine-0-7-2/"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code/"
+    - title: "T-Code Engine"
+      url: "/posts/tcodeengine/"
 weight: 2
 tags:
     - T-Code-Engine

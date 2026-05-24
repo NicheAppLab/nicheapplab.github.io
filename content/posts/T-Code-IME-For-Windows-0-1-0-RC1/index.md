@@ -1,6 +1,12 @@
 ---
 date: '2026-05-21T16:56:29-07:00'
 title: 'T-Code IME for Windows 0.1.0-RC1'
+url: "/posts/t-code-ime-for-windows-0-1-0-rc1/"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code"
+    - title: "T-Code IME for Windows"
+      url: "/posts/t-code-ime-for-windows/"
 tags:
     - T-Code
     - T-Code IME for Windows

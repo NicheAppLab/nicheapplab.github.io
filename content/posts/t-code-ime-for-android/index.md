@@ -2,6 +2,10 @@
 date: '2026-04-05T18:00:49-07:00'
 draft: false
 title: 'T-Code IME for Android'
+url: "/posts/t-code-ime-for-android"
+logical_breadcrumbs:
+    - title: "T-Code"
+      url: "/posts/t-code"
 tags:
     - T-Code
     - T-Code IME for Android

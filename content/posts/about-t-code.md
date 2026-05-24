@@ -2,6 +2,7 @@
 date: '2026-04-05T16:48:54-07:00'
 draft: false
 title: 'T-Code 入力について'
+url: "/posts/t-code"
 author: Kazuhiro F
 tags:
     - T-Code
