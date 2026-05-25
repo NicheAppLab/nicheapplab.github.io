@@ -29,7 +29,7 @@ schema:
       "review":
           "@type": "Review"
           "reviewRating" :
-              "@type": "Rating",
+              "@type": "Rating"
               "ratingValue": 5
           "author":
               "@type": "Person"
