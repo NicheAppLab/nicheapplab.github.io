@@ -26,6 +26,8 @@ schema:
           "@type": "Offer"
           "price": "0"
           "priceCurrency": "JPY"
+      "review":
+          - "positiveNotes": "軽い&誤変換低減には有効だけど、習得に時間がかかりそう。気長に使っていこうと思います。"
 ---
 Niche App Lab がリリースしている, T-Code IME for Android の製品情報です.
 以下, T-Code IME for Android の特徴です.
