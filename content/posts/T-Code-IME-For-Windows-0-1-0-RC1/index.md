@@ -5,8 +5,8 @@ url: "/posts/t-code-ime-for-windows-0-1-0-rc1/"
 logical_breadcrumbs:
     - title: "T-Code"
       url: "/posts/t-code"
-    - title: "T-Code IME for Windows"
-      url: "/posts/t-code-ime-for-windows/"
+    - title: "T-Code IME for Windows リリースページ"
+      url: "posts/t-code-ime-for-windows-release/"
 tags:
     - T-Code
     - T-Code IME for Windows

@@ -81,7 +81,7 @@ params:
     Content: |
       Products:
         - [T-Code IME for Android]({{< relref "posts/t-code-ime-for-android/" >}})
-        - [T-Code IME for Windows]({{< relref "posts/t-code-ime-for-windows/" >}})
+        - [T-Code IME for Windows]({{< relref "posts/t-code-ime-for-windows-release/" >}})
         - [T-Code Engine]({{< relref "posts/tcodeengine-0-7-2/" >}})
 
   socialIcons:

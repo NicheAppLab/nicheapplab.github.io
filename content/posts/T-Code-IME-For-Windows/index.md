@@ -1,10 +1,12 @@
 ---
 date: '2026-05-21T16:56:38-07:00'
-title: 'T Code IME for Windows'
+title: 'T Code IME for Windows の裏側'
 url: "/posts/t-code-ime-for-windows"
 logical_breadcrumbs:
     - title: "T-Code"
       url: "/posts/t-code"
+    - title: 'T-Code IME for Windows リリースページ'
+      url: "posts/t-code-ime-for-windows-release/"
 tags:
     - T-Code
     - T-Code IME for Windows
